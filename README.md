@@ -1,11 +1,12 @@
 ![readme header](https://github.com/voxelcoder/voxelcoder/blob/main/images/github-redme-header.png?raw=true)
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=voxelcoder&label=Profile%20views&color=0e75b6&style=flat" alt="voxelcoder" /> </p>
 
-
+                         
 ### These are the tools I use for...
 
-#### front-end development:
+#### Front-end development:
 <p> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -18,7 +19,7 @@
 <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> </p>
 
 
-#### back-end development:
+#### Back-end development:
 
 <p>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
@@ -33,15 +34,19 @@
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
 
-#### design and prototyping:
+#### Design and prototyping:
 <p>
 <a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> 
 <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
 </p>
 
-#### writing code:
+#### Writing code:
 
 <p>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png" alt="PyCharm Professional" width="40" height="40"/> </a>
 <a href="https://developer.android.com/studio" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/512px-Android_Studio_icon.svg.png" alt="Android Studio" width="40" height="40"/> </a>
 </p>
+
+___
+
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=voxelcoder&layout=compact"/>
