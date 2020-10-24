@@ -1,7 +1,6 @@
 ![readme header](https://github.com/voxelcoder/voxelcoder/blob/main/images/github-redme-header.png?raw=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=voxelcoder&label=Profile%20views&color=0e75b6&style=flat" alt="voxelcoder" /> </p>
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/voxelcoder)](https://badges.pufler.dev)
 
 
 ### These are the tools I use for...
