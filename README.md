@@ -52,4 +52,4 @@
 
 ### My latest Medium article:
 
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=voxelcoder)](https://medium.com/@omidnikrah)
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=voxelcoder)](https://medium.com/@voxelcoder)
