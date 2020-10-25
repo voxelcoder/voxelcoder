@@ -47,3 +47,9 @@
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png" alt="PyCharm Professional" width="40" height="40"/> </a>
 <a href="https://developer.android.com/studio" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/512px-Android_Studio_icon.svg.png" alt="Android Studio" width="40" height="40"/> </a>
 </p>
+
+---
+
+### My latest Medium article:
+
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=voxelcoder)](https://medium.com/@omidnikrah)
